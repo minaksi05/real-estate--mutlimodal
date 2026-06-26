@@ -100,7 +100,7 @@ Drive/
     ├── models/
     │   └── catboost_multimodal.cbm
     ├── predictions/
-    │   └── 23115047_final.csv
+    │   └── real estate_final.csv
     └── data_fetcher.py
 ```
 
