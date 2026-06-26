@@ -18,8 +18,8 @@ The repository is organized as follows:
 ├── prediction.ipynb
 ├── geospatial_visual_eda.ipynb
 ├── GradCAM.ipynb
-├── 23115047_final.csv
-├── 23115047_report.pdf
+├── real estate_final.csv
+├── report_multimodal_real_estate.pdf
 └── README.md
 ```
 
